@@ -9,7 +9,7 @@ const Banner = () => {
                 <p className="text-xl text-white lg:text-2xl font-poppins font-semibold">
                 Discover a world of excitement with our electrifying lineup of events
             </p>
-                <button className="btn btn-active  text-white btn-secondary">Get Quote</button>
+                <button className="btn btn-active font-poppins text-white btn-secondary">Get Quote</button>
             </div>
         </div>
     </div>
