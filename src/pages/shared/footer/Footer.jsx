@@ -2,7 +2,7 @@ import React from 'react';
 
 const Footer = () => {
     return (
-        <div>
+        <div className='font-poppins'>
             <footer className="footer footer-center p-10 bg-gradient-to-r from-pink-400 from-10% via-sky-500 via-30% to-green-500 to-80% text-base-content rounded">
   <nav className="grid grid-flow-col gap-4">
     <a className="link link-hover">Home</a> 

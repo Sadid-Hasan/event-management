@@ -1,0 +1,40 @@
+ [
+      {
+        "id": 1,
+        "title": "Event Planning and Coordination",
+        "description": "Comprehensive event planning services for concerts, theater shows, film premieres, comedy events, sports competitions, and art exhibitions. We handle venue selection, logistics, artist coordination, and ticketing solutions.",
+        "image": "https://i.ibb.co/SXSzXwj/3054191.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Artiste Management",
+        "description": "Professional artiste management services to support performers, actors, comedians, and artists. We assist with contract negotiation, scheduling, promotions, and career development, allowing artists to focus on their creativity.",
+        "image": "https://i.ibb.co/H7B8wz4/5031659.jpg"
+      },
+      {
+        "id": 3,
+        "title": "Custom Event Production",
+        "description": "Create unique event experiences by blending elements from concerts, theater, film, comedy, sports, and art. We customize themes, stages, lighting, and sound setups to deliver unforgettable and tailored events.",
+        "image": "https://i.ibb.co/bQQ6Qc0/29162.jpgn"
+      },
+      {
+        "id": 4,
+        "title": "Ticketing and Box Office Solutions",
+        "description": "Develop secure and user-friendly online ticketing platforms. Our services include ticket sales, seating management, QR code entry systems, and real-time attendance tracking, ensuring smooth event entry for attendees.",
+        "image": "https://i.ibb.co/SJhyvLR/32785.jpg"
+      },
+      {
+        "id": 5,
+        "title": "Digital Marketing and Promotion",
+        "description": "Execute targeted digital marketing campaigns to promote concerts, theater shows, film screenings, comedy events, sports competitions, and art exhibitions. We use social media, email marketing, SEO, and online ads for maximum outreach.",
+        "image": "https://i.ibb.co/bRfY4r9/19198948.jpg"
+      },
+      {
+        "id": 6,
+        "title": "Event Merchandise and Memorabilia",
+        "description": "Design and produce event merchandise including T-shirts, posters, mugs, and collectibles related to concerts, theater, film, comedy, sports, and art. Attendees can purchase these items online and during events.",
+        "image": "https://i.ibb.co/yPwkK6y/3476285.jpg"
+      }
+    ]
+  
+  

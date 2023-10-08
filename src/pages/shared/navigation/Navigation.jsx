@@ -6,7 +6,7 @@ const Navigation = () => {
         <li><NavLink to ="/Service">Service</NavLink></li>
     </>
     return (
-        <div className="navbar bg-base-100">
+    <div className="navbar font-poppins bg-slate-50">
   <div className="navbar-start">
     <div className="dropdown">
       <label tabIndex={0} className="btn btn-ghost lg:hidden">
@@ -16,7 +16,7 @@ const Navigation = () => {
         {menus}
       </ul>
     </div>
-    <a className="btn btn-ghost normal-case text-3xl">Entertainix</a>
+    <a className="btn btn-ghost font-cursive text-green-700 normal-case text-4xl">Entertainix</a>
   </div>
   <div className="navbar-center hidden lg:flex">
     <ul className="menu menu-horizontal px-1">

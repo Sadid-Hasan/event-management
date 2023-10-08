@@ -1,0 +1,51 @@
+ [
+      {
+        "id": 1,
+        "image": "https://i.ibb.co/W07VXhX/Concerts-and-Music-Festivals.jpg",
+        "title": "Concerts and Music Festivals",
+        "description": "Join us for an electrifying music festival featuring top artists from around the world. Experience a night of music, lights, and unforgettable performances.",
+        "rating": 4.8,
+        "Price" :25000
+      },
+      {
+        "id": 2,
+        "image": "https://i.ibb.co/q9s4sxz/pexels-wendy-wei-1714361.jpg",
+        "title": "Theater and Performing Arts",
+        "description": "Immerse yourself in the world of Shakespeare with a powerful rendition of Hamlet. Witness exceptional acting, compelling drama, and timeless storytelling.",
+        "rating": 4.5,
+        "Price" :15000
+      },
+      {
+        "id": 3,
+        "image": "https://i.ibb.co/rsTgVcW/pexels-tima-miroshnichenko-7991486.jpg",
+        "title": "Film Screenings and Premieres",
+        "description": "Be the first to witness the premiere of a highly anticipated film. Join us for a glamorous night filled with stars, red carpet, and cinematic brilliance.",
+        "rating": 4.9,
+        "Price" :20000
+      },
+      {
+        "id": 4,
+        "image": "https://i.ibb.co/KDLj3Cd/pexels-zagham-awan-18565325.jpg",
+        "title": "Comedy Shows",
+        "description": "Prepare for an evening of non-stop laughter as top comedians take the stage. Get ready for hilarious anecdotes, witty humor, and endless fun.",
+        "rating": 4.7,
+        "Price" :10000
+      },
+      {
+        "id": 5,
+        "image": "https://i.ibb.co/rFGXLcr/pexels-pixabay-248559.jpg",
+        "title": "Sports Events",
+        "description": "Witness intense tennis battles as world-class athletes compete for the grand slam title. Experience the thrill of victory and the agony of defeat.",
+        "rating": 4.6,
+        "Price" :20000
+      },
+      {
+        "id": 6,
+        "image": "https://i.ibb.co/NYjFcKs/pexels-riccardo-69903.jpg",
+        "title":"Art Exhibitions",
+        "description": "Explore the world of contemporary art at our gallery opening. Discover unique artworks, mingle with artists, and indulge in creativity and expression.",
+        "rating": 4.9,
+        "Price" :15000
+      }
+    ]
+  
