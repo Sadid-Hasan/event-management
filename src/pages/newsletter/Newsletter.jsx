@@ -6,7 +6,7 @@ const Newsletter = () => {
            <section class="bg-white dark:bg-gray-900 font-poppins">
     <div class="container px-4 py-16 mx-auto lg:flex lg:items-center lg:justify-between">
         <h2 class="text-2xl font-poppins font-semibold tracking-tight text-gray-800 xl:text-3xl dark:text-white">
-            Join <span className=' font-cursive text-green-500'>Entertainix</span> and get the update from anywhere
+            Join <span className=' font-cursive text-green-500'>Entertainix</span> and get exciting offers!
         </h2>
 
         <div class="mt-8 lg:mt-0">
