@@ -14,11 +14,12 @@ console.log(greetign);
 - A: `{}`
 - B: `ReferenceError: greetign is not defined`
 - C: `undefined`
+Please Click to the answer to read to the answer
 
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### Answer: ?
+#### Answer: ? Please Click to the answer to read to the answer
 
 <i>B: ReferenceError: greetign is not defined
 here variable name is declared as greeting but it console loged as greetign
@@ -45,7 +46,7 @@ sum(1, "2");
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### Answer: ?
+#### Answer: ?Please Click to the answer to read to the answer
 
 <i>Here the + operator is used with a string and a number which concatenates the values into a string. So it gives a string and the answer is  "12"</i>
 
@@ -71,7 +72,7 @@ console.log(food);
 <details><summary><b> </b></summary>
 <p>
 
-#### Answer: ?
+#### Answer: ?Please Click to the answer to read to the answer
 
 <i>Answer is - A: `['🍕', '🍫', '🥑', '🍔']`  here favorite food is 🍕 which assigned it on 🍝 which dont change the array of food </i>
 
@@ -96,7 +97,7 @@ console.log(sayHi());
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### Answer: ?
+#### Answer: ?Please Click to the answer to read to the answer
 
 <i> the answer is `Hi there, undefined` . Here  the sayHi function expects a name parameter,  it is called without any arguments, name gives  undefined. So it concatenates undefined in the string. </i>
 
@@ -124,7 +125,7 @@ console.log(count);
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### Answer: ?
+#### Answer: ?Please Click to the answer to read to the answer
 
 <i> The answer is 3The forEach method iterates over the nums array elements. In JavaScript, non zero number is considerate to be true. So when it  found 0, the condition not execute and count . For non zero element it counts only </i>
 
