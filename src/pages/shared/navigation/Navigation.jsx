@@ -25,8 +25,8 @@ const Navigation = () => {
   </div>
   <div className="navbar-end">
   <ul className="menu menu-horizontal px-1">
-            <li><a>Login</a></li>
-            <li><a>Sign Up</a></li>
+            <li><NavLink to ="/Login">Login</NavLink></li>
+            <li><NavLink to ="/Signup">Sign Up</NavLink></li>
           </ul>
   </div>
 </div>
