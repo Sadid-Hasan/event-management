@@ -9,6 +9,7 @@ import Signup from "../pages/signup/Signup";
 
 
 
+
 const router = createBrowserRouter([
     {
         path: '/',
@@ -30,7 +31,6 @@ const router = createBrowserRouter([
                 path:'signup',
                 element:<Signup></Signup>
             }
-
         ]
 
     }

@@ -16,7 +16,7 @@ const Navigation = () => {
         {menus}
       </ul>
     </div>
-    <a className="btn btn-ghost font-cursive text-green-700 normal-case text-4xl">Entertainix</a>
+    <a className="btn btn-ghost font-cursive text-green-700 normal-case text-3xl">Entertainix</a>
   </div>
   <div className="navbar-center hidden lg:flex">
     <ul className="menu menu-horizontal px-1">
